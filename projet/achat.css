@@ -154,17 +154,6 @@ a {
     width:100%;
     left:0;
 }
-.header_burger {
-    display:none;
-}
-.header_burger svg {
-    stroke: white;
-    width:22px;
-    height: 22px;
-}
-.header_nav_close{
-    display: none;
-}
 
 
 

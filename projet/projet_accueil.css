@@ -23,6 +23,7 @@ body{
     
 }
 
+
 .sous-titre{
     font-size: 3vmax;
     font-family: 'PT Sans Narrow', sans-serif;
@@ -128,7 +129,7 @@ a{
     font-size: 20px;
 }
 
-.header_nav_menu_link:last-of-type {
+.header_nav_menu_link:last-of-type { 
     margin-right: initial;
 }
 .header_nav_menu_link a {
@@ -152,18 +153,6 @@ a{
     width:100%;
     left:0;
 }
-.header_burger {
-    display:none;
-}
-.header_burger svg {
-    stroke: white;
-    width:22px;
-    height: 22px;
-}
-.header_nav_close{
-    display: none;
-}
-
 
 
 /*myriam footer*/
